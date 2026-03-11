@@ -53,4 +53,4 @@ While building this project I practiced:
 ## Author
 
 * GitHub – https://github.com/withsarath
-* Frontend Mentor – ht
+* Frontend Mentor – https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
