@@ -17,7 +17,7 @@ Users should be able to:
 ## Links
 
 * **Solution URL:** https://github.com/withsarath/nft-preview-card
-* **Live Site URL:** (Add deployed link here)
+* **Live Site URL:** [(Add deployed link here)](https://withsarath.github.io/nft-preview-card/)
 
 ---
 
